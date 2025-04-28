@@ -8,7 +8,7 @@ Este documento reúne os experimentos realizados utilizando o **ChatGPT-4o** atr
 
 A partir do Azure Ai Foundry foi criada uma implantação do ChatGPT-4o com o intuito de explorar suas capacidades de resposta utilizando alguns prompts elencados abaixo.
 
-![Criação do projeto no Azure Ai Foundry](..images/explorando-chatgpt-4o/criacao.png)
+![Criação do projeto no Azure Ai Foundry](....images/explorando-chatgpt-4o/criacao.png)
 
 
 
