@@ -4,31 +4,31 @@ Este documento reúne os principais prompts utilizados durante a exploração da
 
 ---
 
-## 1. Geração de Texto Criativo
+## 1. 
 
 **Prompt:**
-> Crie uma história curta sobre um viajante no tempo que se perde em diferentes eras históricas.
+> Estou planejando viajar para Pernambuco em maio. Você consegue me ajudar?
 
 **Objetivo:**  
-Testar a capacidade de criação narrativa e a fluidez do texto gerado.
+
 
 **Observações:**  
-- O modelo demonstrou criatividade e coerência narrativa.
-- Pequenas inconsistências cronológicas surgiram, mas dentro de um nível aceitável para uma narrativa ficcional.
+- O modelo demonstrou 
+- 
 
 ---
 
-## 2. Resumo de Texto Técnico
+## 2. 
 
 **Prompt:**
-> Resuma o seguinte artigo científico sobre inteligência artificial em linguagem simples para leigos.
+> Quais são os melhores locais para ficar em Pernambuco?
 
 **Objetivo:**  
-Avaliar a habilidade do modelo de simplificar conteúdos técnicos mantendo a precisão conceitual.
+
 
 **Observações:**  
-- O resumo foi objetivo, porém alguns termos técnicos ainda exigiram esclarecimento posterior.
-- Uma segunda reformulação deixou o texto mais acessível.
+- 
+- 
 
 ---
 
