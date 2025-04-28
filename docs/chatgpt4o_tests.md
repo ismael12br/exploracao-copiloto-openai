@@ -8,6 +8,10 @@ Este documento reúne os experimentos realizados utilizando o **ChatGPT-4o** atr
 
 A partir do Azure Ai Foundry foi criada uma implantação do ChatGPT-4o com o intuito de explorar suas capacidades de resposta utilizando alguns prompts elencados abaixo.
 
+![Criação do projeto no Azure Ai Foundry](..images/explorando-chatgpt-4o/criacao.png)
+
+
+
 ### Prompt 1: Estou planejando viajar para Pernambuco em maio. Você consegue me ajudar?
 
 Foi observado que a IA não gerou informações gerais sobre o destino, mas buscou entender melhor qual a dúvida sobre o destino da viagem para desenvolver uma resposta mais precisa.
