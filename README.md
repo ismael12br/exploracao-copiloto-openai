@@ -1,41 +1,57 @@
-# Copilot e OpenAI: Explorando suas funcionalidades
+# Copilot e OpenAI: Explorando suas Funcionalidades
 
-## Introdução
+Este repositório documenta práticas e aprendizados relacionados ao uso de IA generativa, utilizando o Copilot na versão web em conjunto com ferramentas da OpenAI.  
+As explorações foram inspiradas nos laboratórios oficiais da Microsoft Learning, adaptados e expandidos para fins educacionais e práticos.
 
-Este projeto tem como objetivo explorar as funcionalidades oferecidas pelo Copilot (versão web) e pelas ferramentas da OpenAI, com ênfase no uso de filtros de conteúdo, criação assistida por inteligência artificial e boas práticas de interação com esses sistemas.
+---
 
-A proposta é aplicar os conceitos aprendidos ao longo do bootcamp, documentar os processos de maneira clara e organizada, e consolidar os aprendizados através de exemplos práticos.
+## Documentos de Referência
+- [Introduction to Generative AI](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/12-generative-ai.html)
+- [Explore Azure AI Studio](https://microsoftlearning.github.io/mslearn-ai-studio/Instructions/01-Explore-ai-studio.html)
+- [Explore Content Filters](https://microsoftlearning.github.io/mslearn-ai-studio/Instructions/06-Explore-content-filters.html)
+
+---
+
+## Organização do Projeto
+
+- `/prompts/`  
+  Lista de prompts aplicados, filtros testados e observações.
+
+- `/aprendizados/`  
+  Registro de aprendizados práticos, erros encontrados e insights.
+
+- `/imagens/`  
+  Capturas de tela de interações relevantes ou testes de IA.
+
+- `/referencias/`  
+  Anotações e links dos documentos utilizados como base de estudo.
+
+---
 
 ## Objetivo
 
-- Aplicar na prática os conhecimentos adquiridos sobre IA assistiva.
-- Explorar a criação de prompts eficazes.
-- Testar os limites e filtros aplicados nas ferramentas OpenAI.
-- Desenvolver documentação técnica bem estruturada no GitHub.
+O objetivo principal deste projeto é aplicar conceitos de engenharia de prompts, testar funcionalidades do Azure AI Studio (e ferramentas correlatas), analisar filtros de conteúdo e avaliar a eficácia das respostas geradas.
 
-## Metodologia
+Além disso, buscou-se desenvolver um olhar crítico sobre os resultados, propondo melhorias e adaptações conforme o comportamento da IA observada.
 
-A abordagem prática envolverá:
+---
 
-- Criação e aplicação de prompts diversos no Copilot (web) e OpenAI.
-- Análise crítica dos resultados obtidos.
-- Registro de prints de tela para comprovação da prática.
-- Anotações dos aprendizados e observações relevantes.
-- Organização do material em pastas específicas dentro do repositório.
+## Status Atual
 
-Os arquivos auxiliares serão organizados da seguinte forma:
+- ✅ Organização inicial do repositório
+- ✅ Levantamento de referências
+- ✅ Construção e testes de prompts
+- ✅ Testes de filtros de conteúdo
+- ✅ Documentação de resultados (em andamento)
+- ⏳ Conclusão e reflexões finais (em andamento)
 
-```
-/prompts → Arquivos com os exemplos de prompts utilizados.
-/images → Capturas de tela dos testes realizados.
-/aprendizados.md → Registro de lições e reflexões técnicas.
-/resultados.md → Anotações dos resultados brutos para posterior consolidação.
-```
+---
 
-## Resultados
+## Futuras Atualizações
 
-(Seção a ser preenchida após a execução prática.)
+- Documentação detalhada dos resultados dos testes com prompts e filtros.
+- Reflexões críticas sobre as respostas da IA e sugestões de melhoria.
+- Análise comparativa entre diferentes estratégias de criação de prompts.
+- Sugestões de boas práticas para o uso do Azure AI Studio.
 
-## Conclusão
-
-(Seção a ser preenchida após a execução prática.)
+---
