@@ -39,7 +39,7 @@ O projeto segue como base os laboratórios oficiais da **Microsoft Learning**.
 
 ---
 
-##Testes Realizados
+## Testes Realizados
 
 - Explorando o ChatGPT-4o: Testes focados na interação com o modelo mais recente do ChatGPT, via Copilot Web.
 
