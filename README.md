@@ -1,5 +1,11 @@
 # Copilot e OpenAI: Explorando suas Funcionalidades
 
+[![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE.md)
+[![Status: Concluído](https://img.shields.io/badge/status-concluído-blue)](#)
+[![GitHub Pages](https://img.shields.io/badge/docs-disponível-lightgrey)](https://github.com/ismael12br/exploracao-copiloto-openai/tree/main/docs)
+
+---
+
 ## Sobre o Projeto
 
 Este repositório foi criado para documentar uma série de testes práticos utilizando os serviços do **Azure OpenAI**.  
