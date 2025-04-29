@@ -81,3 +81,18 @@ A experiência contribuiu diretamente para a construção de habilidades prátic
 - [Explore Azure AI Studio](https://microsoftlearning.github.io/mslearn-ai-studio/Instructions/01-Explore-ai-studio.html)
 - [Explore Content Filters](https://microsoftlearning.github.io/mslearn-ai-studio/Instructions/06-Explore-content-filters.html)
 
+---
+
+Projeto desenvolvido como parte do bootcamp Cloud com IA – DIO e XP Investimentos.
+
+---
+
+Este projeto permitiu colocar em prática os conceitos de nuvem e IA aprendidos em curso/bootcamp. Foram utilizados serviços reais de computação em nuvem e aplicações de linguagem natural para simular cenários profissionais.
+
+---
+
+## 🚀 Autor
+
+- **Ismael Lopes**  
+- GitHub: [@ismael12br](https://github.com/ismael12br)  
+- LinkedIn: [linkedin.com/in/ismael-lopes](https://linkedin.com/in/ismael-lopes)
