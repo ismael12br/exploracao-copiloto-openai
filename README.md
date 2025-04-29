@@ -89,6 +89,10 @@ A experiência contribuiu diretamente para a construção de habilidades prátic
 
 ---
 
+## Contribuição
+
+Sugestões são bem-vindas via Issues ou Pull Requests. Este repositório tem caráter educacional, mas está aberto à colaboração!
+
 Projeto desenvolvido como parte do bootcamp Cloud com IA – DIO e XP Investimentos.
 
 ---
