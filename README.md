@@ -65,6 +65,16 @@ O projeto segue como base os laboratórios oficiais da **Microsoft Learning**.
 
 ---
 
+## 📎 Links Rápidos
+
+- 🔹 [Documentação dos testes com ChatGPT-4o](https://github.com/ismael12br/exploracao-copiloto-openai/blob/main/docs/chatgpt4o_tests.md)
+- 🔹 [Documentação dos testes com Azure OpenAI](https://github.com/ismael12br/exploracao-copiloto-openai/blob/main/docs/azure_openai_tests.md)
+- 🔹 [Testes com Filtros de Conteúdo](https://github.com/ismael12br/exploracao-copiloto-openai/blob/main/docs/content_filters_tests.md)
+- 🔹 [Lista de Prompts Utilizados](https://github.com/ismael12br/exploracao-copiloto-openai/blob/main/prompts.md)
+- 🔹 [Licença do Projeto (MIT)](https://github.com/ismael12br/exploracao-copiloto-openai/blob/main/LICENSE.md)
+
+---
+
 ## Conclusão
 
 A prática desenvolvida ao longo deste laboratório confirmou a importância de uma engenharia de prompt bem planejada para otimizar interações com modelos de linguagem.
